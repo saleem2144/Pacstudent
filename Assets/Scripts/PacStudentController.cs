@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PacStudentController : MonoBehaviour
 {
     public float moveSpeed = 5f;
     private Animator animator;
